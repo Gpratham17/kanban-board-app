@@ -4,7 +4,6 @@ import { Card } from "antd";
 import {
   CheckCircleOutlined,
   ExclamationCircleOutlined,
-  UserOutlined,
 } from "@ant-design/icons";
 
 function CardComponent({ title, description, buttonText }) {
